@@ -1,0 +1,14 @@
+table,th,td{
+    text-align: center;
+    border-spacing: 3px;
+    border-collapse: separate;
+    border: 1px solid #000000;
+}
+th,td{
+    width: 100px;
+    height: 30px;
+}
+.hijau{
+    background-color: green;
+    color: white;
+}
